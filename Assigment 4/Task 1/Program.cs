@@ -2,6 +2,7 @@
 string arraylst = Console.ReadLine();
 int arrayl;
 
+
 if(int.TryParse(arraylst, out arrayl))
 {
     int[] myarray = new int[arrayl];

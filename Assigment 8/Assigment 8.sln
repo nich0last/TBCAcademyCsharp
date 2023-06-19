@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1 Calculator", "Task 1 Calculator\Task 1 Calculator.csproj", "{223B61EF-1E4B-4A90-90C2-14EA7CB8BA7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 2 Bank Servicies", "Task 2 Bank Servicies\Task 2 Bank Servicies.csproj", "{46B9F234-415B-435D-85D6-DE32513E6F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223B61EF-1E4B-4A90-90C2-14EA7CB8BA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223B61EF-1E4B-4A90-90C2-14EA7CB8BA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223B61EF-1E4B-4A90-90C2-14EA7CB8BA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223B61EF-1E4B-4A90-90C2-14EA7CB8BA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46B9F234-415B-435D-85D6-DE32513E6F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B9F234-415B-435D-85D6-DE32513E6F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B9F234-415B-435D-85D6-DE32513E6F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B9F234-415B-435D-85D6-DE32513E6F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB755EEB-9882-4198-B785-0C8E23610A55}
+	EndGlobalSection
+EndGlobal
